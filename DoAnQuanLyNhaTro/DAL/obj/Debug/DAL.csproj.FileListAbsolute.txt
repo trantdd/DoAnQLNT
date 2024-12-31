@@ -1,0 +1,12 @@
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\DAL.dll.config
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\DAL.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\DAL.pdb
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\EntityFramework.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\EntityFramework.xml
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\obj\Debug\DAL.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\DAL\obj\Debug\DAL.pdb

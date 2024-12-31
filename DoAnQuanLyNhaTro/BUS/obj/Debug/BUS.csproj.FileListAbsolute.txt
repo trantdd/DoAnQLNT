@@ -1,0 +1,15 @@
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\BUS.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\BUS.pdb
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\DAL.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\EntityFramework.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\DAL.pdb
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\DAL.dll.config
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\EntityFramework.xml
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\obj\Debug\BUS.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\obj\Debug\BUS.pdb
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\BUS.dll.config
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\HOCTAP\LapTrinhTrenMoiTruongWindowns\DoAnQuanLyNhaTro\BUS\bin\Debug\EntityFramework.SqlServer.xml

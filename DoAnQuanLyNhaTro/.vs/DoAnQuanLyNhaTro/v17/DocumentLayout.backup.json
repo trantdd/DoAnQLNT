@@ -1,0 +1,831 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|c:\\hoctap\\laptrinhtrenmoitruongwindowns\\doanquanlynhatro\\dal\\dbquanlynhatro\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\thietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|c:\\hoctap\\laptrinhtrenmoitruongwindowns\\doanquanlynhatro\\doanquanlynhatro\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmdanhmuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmdanhmuc.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\dal\\dbquanlynhatro\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|c:\\hoctap\\laptrinhtrenmoitruongwindowns\\doanquanlynhatro\\dal\\dbquanlynhatro\\nhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\nhatro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\bus\\phongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:bus\\phongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\TaiKhoanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:BUS\\TaiKhoanService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\dal\\dbquanlynhatro\\chitietdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\chitietdichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\dal\\dbquanlynhatro\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\dichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|c:\\hoctap\\laptrinhtrenmoitruongwindowns\\doanquanlynhatro\\dal\\dbquanlynhatro\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\hopdongthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmkhach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\dal\\dbquanlynhatro\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|c:\\hoctap\\laptrinhtrenmoitruongwindowns\\doanquanlynhatro\\dal\\dbquanlynhatro\\phieuthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:dal\\dbquanlynhatro\\phieuthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\bus\\khachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:bus\\khachservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\Khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\DBQuanLyNhaTro\\Khach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmkhach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmkhach.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmdanhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\DBQuanLyNhaTro\\TaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\bus\\danhmucservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:bus\\danhmucservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\bus\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:bus\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\frmMain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TrangBi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\DBQuanLyNhaTro\\TrangBi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmquanlytaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmquanlytaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\GuiDoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmtaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\frmTaiKhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:doanquanlynhatro\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31168EEA-5CF2-4EBC-B2AE-F972987796EC}|DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro.csproj|solutionrelative:DoAnQuanLyNhaTro\\frmMain.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{551F7E71-375C-453C-8745-9A644CB9A85F}|BUS\\BUS.csproj|solutionrelative:BUS\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{528FF6F8-DCB3-47D9-BCBB-C2EEC298C65B}|DAL\\DAL.csproj|solutionrelative:DAL\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThietBi.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ThietBi.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\ThietBi.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ThietBi.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\ThietBi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T13:30:00.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HopDongThue.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\HopDongThue.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\HopDongThue.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\HopDongThue.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\HopDongThue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:51:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhieuThanhToan.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\PhieuThanhToan.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\PhieuThanhToan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\PhieuThanhToan.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\PhieuThanhToan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:57:40.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NhaTro.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\NhaTro.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\NhaTro.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\NhaTro.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\NhaTro.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:18:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmKhach.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmKhach.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmKhach.cs",
+              "ViewState": "AgIAAM8BAAAAAAAAAAAAAPMBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:05:08.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiPhong.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\LoaiPhong.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\LoaiPhong.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\LoaiPhong.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\LoaiPhong.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:42:41.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPhong.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmPhong.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmPhong.cs",
+              "ViewState": "AgIAADMCAAAAAAAAAAAwwEICAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:19:34.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\Phong.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\Phong.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\Phong.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\Phong.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T15:18:50.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmPhong.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmPhong.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmPhong.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAhwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:51:46.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPhong.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmPhong.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmPhong.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T13:51:00.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmKhach.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmKhach.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmKhach.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:05:10.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmKhach.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmKhach.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmKhach.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmKhach.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:05:04.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PhongService.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\PhongService.cs",
+              "RelativeDocumentMoniker": "BUS\\PhongService.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\PhongService.cs",
+              "RelativeToolTip": "BUS\\PhongService.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:29:53.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "KhachService.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\KhachService.cs",
+              "RelativeDocumentMoniker": "BUS\\KhachService.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\KhachService.cs",
+              "RelativeToolTip": "BUS\\KhachService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:29:02.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\packages.config",
+              "RelativeDocumentMoniker": "BUS\\packages.config",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\packages.config",
+              "RelativeToolTip": "BUS\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-25T15:20:16.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietDichVu.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ChiTietDichVu.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\ChiTietDichVu.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ChiTietDichVu.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\ChiTietDichVu.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:15:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DichVu.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\DichVu.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\DichVu.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\DichVu.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\DichVu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:49:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmDanhMuc.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAjwFsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T14:17:04.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmDanhMuc.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmDanhMuc.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmDanhMuc.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:34:08.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmDanhMuc.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmDanhMuc.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmDanhMuc.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmDanhMuc.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:34:00.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\Program.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\Program.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\Program.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:25:10.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAlwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:42.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:42.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:42.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmQuanLyTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAYwLEBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:42.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\App.config",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\App.config",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\App.config",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-25T06:26:43.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:43.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmQuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T06:26:44.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmQuanLyTaiKhoan.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowLcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:37:29.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaiKhoanService.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\TaiKhoanService.cs",
+              "RelativeDocumentMoniker": "BUS\\TaiKhoanService.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\TaiKhoanService.cs",
+              "RelativeToolTip": "BUS\\TaiKhoanService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:07:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAlwE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:34:45.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmQuanLyTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.Designer.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAYwLEBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:31:36.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Khach.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\Khach.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\Khach.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\Khach.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\Khach.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:37:09.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChiTietHopDong.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\ChiTietHopDong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:32:42.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TrangBi.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TrangBi.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\TrangBi.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TrangBi.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\TrangBi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T06:25:09.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\App.config",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\App.config",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\App.config",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T05:47:57.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:57:07.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmMain.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmMain.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAhwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:49:32.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmTaiKhoan.Designer.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:34:52.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\App.config",
+              "RelativeDocumentMoniker": "BUS\\App.config",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\App.config",
+              "RelativeToolTip": "BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T05:22:59.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-22T05:21:17.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\TaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\TaiKhoan.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\TaiKhoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:19:59.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DanhMucService.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\DanhMucService.cs",
+              "RelativeDocumentMoniker": "BUS\\DanhMucService.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\BUS\\DanhMucService.cs",
+              "RelativeToolTip": "BUS\\DanhMucService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:16:45.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuanLyNhaTroContext.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs",
+              "RelativeDocumentMoniker": "DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs",
+              "RelativeToolTip": "DAL\\DBQuanLyNhaTro\\QuanLyNhaTroContext.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:09:38.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:08:32.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmQuanLyTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmQuanLyTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T11:30:55.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmMain.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmMain.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T05:48:20.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs",
+              "ToolTip": "C:\\HOCTAP\\LapTrinhTrenMoiTruongWindowns\\DoAnQuanLyNhaTro\\DoAnQuanLyNhaTro\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "DoAnQuanLyNhaTro\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T04:04:15.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
